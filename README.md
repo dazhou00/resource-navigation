@@ -2,4 +2,4 @@
  资源导航目录
 
 # Agent Skills 技能相关资源
-[Agent Skill](./agent-skill.md)
+[Agent Skill](./agent-skills.md)
