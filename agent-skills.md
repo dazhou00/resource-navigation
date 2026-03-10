@@ -1,0 +1,10 @@
+
+- anthropic官方仓库：[https://github.com/anthropics/skills](https://github.com/anthropics/skills)
+- Skill社区网站: [https://skillsmp.com/zh](https://skillsmp.com/zh)
+- 优秀开源集合：[https://github.com/ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- 视频制作：[https://github.com/remotion-dev/skills](https://github.com/remotion-dev/skills)
+- youtube视频剪辑：[https://github.com/op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)
+- 大师帮你创建skill的skill：[https://github.com/GBSOSS/skill-from-masters](https://github.com/GBSOSS/skill-from-masters)
+- notebooklM：[https://github.com/PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)
+- markdown发布到X skill: [https://github.com/wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)
+- AI视频产品Vidu Skills：[https://www.vidu.cn/](https://www.vidu.cn/)
