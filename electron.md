@@ -1,0 +1,2 @@
+- electron-vite: [https://cn-evite.netlify.app/](https://cn-evite.netlify.app/)
+- electron 文档: [https://www.electronjs.org/zh/docs/latest/](https://www.electronjs.org/zh/docs/latest/)
